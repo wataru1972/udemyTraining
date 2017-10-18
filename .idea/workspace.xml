@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5f1d5153-63ad-4301-8eae-c037ec9c24a4" name="Default" comment="y'all push hell file">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01_helloworld/hell_file" />
+    <list default="true" id="5f1d5153-63ad-4301-8eae-c037ec9c24a4" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
