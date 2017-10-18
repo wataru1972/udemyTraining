@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5f1d5153-63ad-4301-8eae-c037ec9c24a4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01_helloworld/hi_pal.txt" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/01_helloworld/.gitignore" afterPath="" />
+    <list default="true" id="5f1d5153-63ad-4301-8eae-c037ec9c24a4" name="Default" comment="y'all push hell file">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01_helloworld/hell_file" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -21,7 +20,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="main.go" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main.go" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/01_helloworld/main.go">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
@@ -29,6 +28,16 @@
               <folding>
                 <element signature="e#14#26#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hell_file" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/01_helloworld/hell_file">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -55,6 +64,7 @@
         <option value="$PROJECT_DIR$/01_helloworld/.gitignore" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/01_helloworld/hi_pal.txt" />
+        <option value="$PROJECT_DIR$/01_helloworld/hell_file" />
       </list>
     </option>
   </component>
@@ -137,6 +147,7 @@
     <property name="js.buildTools.gulp.gulp_package_dir" value="" />
     <property name="javascript.karma.karma_node_package_dir" value="" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="GO_FMT" value="false" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -261,6 +272,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="y'all push hell file" />
+    <option name="LAST_COMMIT_MESSAGE" value="y'all push hell file" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -472,6 +487,14 @@
           <folding>
             <element signature="e#14#26#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_helloworld/hell_file">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
